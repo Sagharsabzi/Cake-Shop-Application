@@ -21,11 +21,3 @@ This project is a **Cake Shop** application developed with a full-stack approach
    - Product data (name, price, description, etc.) is stored in the database.
    - A custom **file-based database client** is used for specific client-side functionalities, ensuring smooth interaction with the back-end.
    
-## Installation
-
-### Front-end (Flutter/Dart):
-1. Install **Flutter** and **Dart** on your machine. [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-2. Clone the repository and navigate to the **front-end** directory:
-   ```bash
-   git clone https://github.com/yourusername/cake-shop-app.git
-   cd cake-shop-app/front-end
